@@ -1,0 +1,6 @@
+# Ignore macOS system files
+.DS_Store
+*/.DS_Store
+
+# Ignore the JSON data file
+data/resume_state_enhanced.json
